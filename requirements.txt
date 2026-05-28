@@ -1,0 +1,5 @@
+colorama
+requests
+pyzipper
+pillow
+pynput
