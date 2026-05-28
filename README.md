@@ -26,7 +26,7 @@ pip install pyzipper pillow pynput
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/spectre.git
+git clone https://github.com/CoSpiky/spectre.git
 cd spectre
 python3 Spectre.py
 ```
